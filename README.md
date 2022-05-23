@@ -1,2 +1,2 @@
 # Emotion-Detetcion-through-facial-feature-recognition
-Software will detect the live emotions of the person 
+Software having the ability to detect the location of face in any input image or frame.
